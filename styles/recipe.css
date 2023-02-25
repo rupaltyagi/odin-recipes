@@ -1,0 +1,31 @@
+body{
+    background-color: #D1D0A3
+}
+h1{
+    color:#561F37;
+    font-family: 'Consolas', Courier, monospace;
+    text-align: center;
+}
+h3{
+    color:#902320;
+    text-align: center;
+}
+.image{
+    display:block;
+    margin:30px auto;
+    width: 80%;
+   max-width:fit-content;
+   min-width: 300px;
+   max-width:300px;
+   max-height: 300px;
+   object-fit: cover;
+}
+p{
+    color: #540B0E;
+    font-family: consolas, Courier, monospace;
+    display: block;
+    text-align:center;
+    margin: 1em 5em;
+    margin-bottom: 3em;
+}
+

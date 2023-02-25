@@ -1,0 +1,38 @@
+body{
+    background-color: #FFF3B0;
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color:#335C67;
+}
+.gif{
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    max-width:fit-content;
+    min-width: 200px;
+}
+
+.recipe-list{
+    
+    display:flex;
+    justify-content: center;
+    padding: 2em;
+
+}
+
+
+.l1, .l2, .l3{
+    color:#335C67;
+   font-family: consolas, Courier, monospace;
+   text-decoration: none;
+   text-align: center;
+
+}
+.l1:hover,  .l2:hover, .l3:hover {
+    color:#540B0E;
+    font-size: 1.2em;
+}
+  
+
